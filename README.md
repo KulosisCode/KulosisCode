@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Software Engineer!
+I'm Software Engineer | Game Developer
 
 
 # 💻 Tech Stack:
